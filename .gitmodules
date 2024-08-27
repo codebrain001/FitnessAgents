@@ -1,4 +1,0 @@
-[submodule "fitness_agents_project/fitness_agents_project"]
-	path = fitness_agents_project/fitness_agents_project
-	url = ./fitness_agents_project/fitness_agents_project
-	branch = main
