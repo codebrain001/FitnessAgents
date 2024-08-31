@@ -1,0 +1,16 @@
+{
+    "age": 25,
+    "gender": "Male",
+    "fitness_level": "Beginner",
+    "conditions": "",
+    "medical_report_uploaded_status": false,
+    "weight": 70,
+    "height": 170,
+    "workout_time": "Morning",
+    "workout_location": "At home",
+    "dietary_restrictions": [],
+    "plan_start_date": "2024-08-31",
+    "plan_end_date": "2024-09-07",
+    "intensity": "Easy",
+    "daily_goal": ""
+}

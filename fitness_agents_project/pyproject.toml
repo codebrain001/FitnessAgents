@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "fitness-agents-project"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.13"
+flask = "^3.0.3"
+gunicorn = "^23.0.0"
+flask-sqlalchemy = "^3.1.1"
+psycopg2-binary = "^2.9.9"
+sqlalchemy = "^2.0.32"
+streamlit = "^1.37.1"
+crewai = "^0.51.1"
+crewai-tools = "^0.8.3"
+llama-index = "^0.11.1"
+python-dotenv = "^1.0.1"
+streamlit-date-picker = "^0.0.3"
+langchain = "^0.2.14"
+langchain-openai = "^0.1.22"
+embedchain = {extras = ["postgres"], version = "^0.1.121"}
+composio-crewai = "^0.5.9"
+llama-index-vector-stores-chroma = "^0.2.0"
+llama-index-embeddings-nomic = "^0.5.0"
+llama-index-llms-openai = "^0.2.0"
+llama-index-embeddings-openai = "^0.2.3"
+chromadb = "^0.4.24"
+llama-index-tools-arxiv = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
